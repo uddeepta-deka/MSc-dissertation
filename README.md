@@ -1,0 +1,1 @@
+This is my M.Sc. thesis submitted for the partial fulfilment of the degree at the University of Delhi. Supervisor: Prof Patrick Das Gupta. Title: Statistical studies of pulsar transverse velocities and the nulling phenomena.
